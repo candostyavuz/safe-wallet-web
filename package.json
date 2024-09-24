@@ -46,7 +46,7 @@
     "@emotion/cache": "^11.13.1",
     "@emotion/react": "^11.11.0",
     "@emotion/server": "^11.11.0",
-    "@emotion/styled": "^11.11.0",
+    "@emotion/styled": "^11.13.0",
     "@gnosis.pm/zodiac": "^4.0.3",
     "@keystonehq/eth-keyring": "0.14.4",
     "@mui/icons-material": "^5.14.20",
