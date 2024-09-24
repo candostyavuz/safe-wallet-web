@@ -28,13 +28,11 @@ export const CYPRESS_MNEMONIC = process.env.NEXT_PUBLIC_CYPRESS_MNEMONIC || ''
 
 // Safe Token
 export const SAFE_TOKEN_ADDRESSES: { [chainId: string]: string } = {
-  [chains.eth]: '0x5aFE3855358E112B5647B952709E6165e1c1eEEe',
-  [chains.sep]: '0xd16d9C09d13E9Cf77615771eADC5d51a1Ae92a26',
+  [chains.neura]: '0x5aFE3855358E112B5647B952709E6165e1c1eEEe',
 }
 
 export const SAFE_LOCKING_ADDRESS: { [chainId: string]: string } = {
-  [chains.eth]: '0x0a7CB434f96f65972D46A5c1A64a9654dC9959b2',
-  [chains.sep]: '0xb161ccb96b9b817F9bDf0048F212725128779DE9',
+  [chains.neura]: '0x0a7CB434f96f65972D46A5c1A64a9654dC9959b2',
 }
 
 // Safe Apps

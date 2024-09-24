@@ -37,10 +37,8 @@
     "node": ">=16"
   },
   "resolutions": {
-    "@safe-global/safe-core-sdk-types/**/ethers": "^6.11.1",
-    "@safe-global/protocol-kit/**/ethers": "^6.11.1",
-    "@safe-global/api-kit/**/ethers": "^6.11.1",
-    "@gnosis.pm/zodiac/**/ethers": "^6.11.1"
+    "@keystonehq/eth-keyring": "0.14.4",
+    "@reduxjs/toolkit": "2.2.6"
   },
   "dependencies": {
     "@cowprotocol/widget-react": "^0.9.3",
@@ -50,6 +48,7 @@
     "@emotion/server": "^11.11.0",
     "@emotion/styled": "^11.11.0",
     "@gnosis.pm/zodiac": "^4.0.3",
+    "@keystonehq/eth-keyring": "0.14.4",
     "@mui/icons-material": "^5.14.20",
     "@mui/material": "^5.14.20",
     "@mui/x-date-pickers": "^5.0.20",
